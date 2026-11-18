@@ -166,3 +166,15 @@ body{
     border-radius: 100px 50%;
     background: #fb5;
 }
+
+.copy{
+    grid-column: 3/5;
+    margin-bottom: 2rem;
+    background: #fb5;
+}
+
+.copy p{
+    padding: 20px;
+    font-family: monospace;
+    font-weight: bold;
+}
